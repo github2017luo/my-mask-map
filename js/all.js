@@ -267,7 +267,8 @@ sideBarSwitchBtn.addEventListener('click', sideBarOpenAndClose);
   });
   map.addLayer(markers);
 };
-"use strict";var buildMap = function buildMap() {
+"use strict";
+  var buildMap = function buildMap() {
   map = L.map('mapId', {
     center: [25.04828, 121.51435],
     zoom: 16 });
