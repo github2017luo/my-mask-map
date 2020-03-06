@@ -3,7 +3,8 @@
   "short_name": "Mask Map",
   "theme_color": "#73d0c8",
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation": "portrait",
   "Scope": ".",
   "start_url": ".",
   "icons": [
